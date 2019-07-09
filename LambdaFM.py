@@ -1,8 +1,5 @@
 '''
-Tensorflow implementation of Factorization Machines (FM) as described in:
-Xiangnan He, Tat-Seng Chua. Neural Factorization Machines for Sparse Predictive Analytics. In Proc. of SIGIR 2017.
-
-Note that the original paper of FM is: Steffen Rendle. Factorization Machines. In Proc. of ICDM 2010.
+LambdaFM: Learning Optimal Ranking with Factorization Machines Using Lambda Surrogates
 
 @author:
 Xin xin, Fajie Yuan
